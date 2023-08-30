@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+<p>My name is Diego a software developer from Italy with a strong interest for web applications, microservice, AI and cyber security</p>
+
+<p>🌱 I’m currently learning golang</p>
+
 <!--
 **DiegoM-DEV/DiegoM-DEV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
