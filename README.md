@@ -1,6 +1,17 @@
-### Hi there 👋
+### Hi there, I'm Diego 👋 🇮🇹
 
-<p>My name is Diego a computer science studend from Italy with interest for product management and research</p>
+I'm a **Computer Science Student** with interest for product management and research
+
+---
+
+### 🎯 Objective
+I'm currently seeking **Internship opportunities** for 2025/2026 in the fields of **Machine Learning** or **Product Management**. 
+
+---
+
+### 🛠 Tech Stack & Tools:
+- **Language:** Python, SQL.
+- **Product**: Agile, Figma
 
 <!--<p>🌱 I’m currently learning golang</p>-->
 
