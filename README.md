@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<p>My name is Diego a software developer from Italy with a strong interest for web applications, microservice, AI and cyber security</p>
+<p>My name is Diego a computer science studend from Italy with interest for product management and research</p>
 
 <!--<p>🌱 I’m currently learning golang</p>-->
 
