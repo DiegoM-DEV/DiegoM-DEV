@@ -1,6 +1,6 @@
 ### Hi there, I'm Diego 👋 🇮🇹
 
-I'm a **Computer Science Student** with interest for product management and research
+I'm a **Computer Science Student** with interest for product management,research and innovation!
 
 ---
 
